@@ -1,0 +1,2 @@
+# ergul
+ilk denemelerim
